@@ -1,15 +1,15 @@
 # TaekJun Jung
-<br>
-🎈Info🎈
+
+## 🎈Info🎈
 
 <a href = "https://www.instagram.com/iamtaekjun._.y/" target = "_blank"><img src = "https://img.shields.io/badge/instagram-E4405F.svg?style=flat&logo=Instagram&logoColor=white"/></a>
 
-<img src = "https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=Discord&logoColor=white"/><font size = "1">택준#8280</font>
+<img src = "https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=Discord&logoColor=white"/> 택준#8280
 
 <jtj72272503@gmail.com>
 
-<p><br></p>
-<img src = "https://coinpan.com/files/attach/images/209/911/917/056/7a3b27fc19b173f3c3cd8e704318604b.jpg" alt = "졸려잉" height = 20% width = 20%>
+<br><br>
+<img src = "https://coinpan.com/files/attach/images/209/911/917/056/7a3b27fc19b173f3c3cd8e704318604b.jpg" alt = "졸려잉" height = 10% width = 10%>
 
 ## 💻Tech Stacks💻
 
