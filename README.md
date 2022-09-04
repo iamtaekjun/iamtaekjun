@@ -1,5 +1,8 @@
 <h1><strong>TaekJun Jung</strong></h1>
-👨 https://www.instagram.com/iamtaekjun._.y/
+👨 jtj72272503@gmail.com <br>
+👨 https://www.instagram.com/iamtaekjun._.y/ <br>
+<p><br></p>
+<img src = "https://coinpan.com/files/attach/images/209/911/917/056/7a3b27fc19b173f3c3cd8e704318604b.jpg" alt = "졸려잉" height = 20% width = 20%>
 
 ## 💻Tech Stacks💻
 
