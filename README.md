@@ -7,8 +7,9 @@
 <img src = "https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=Discord&logoColor=white"/> 택준#8280
 
 <jtj72272503@gmail.com>
-<br> <br> <br> 
+
 ---
+
 🙋안녕하세요 !
 
 제 이름은 정택준이고 현재 대학교 재학중입니다.
