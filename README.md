@@ -8,6 +8,10 @@
 
 <jtj72272503@gmail.com>
 
+🙋안녕하세요 !
+제 이름은 정택준이고 현재 대학교 재학중입니다.
+항상 깨지고 부서지며 무엇이든 배우려고 합니다.
+
 <br><br>
 <img src = "https://coinpan.com/files/attach/images/209/911/917/056/7a3b27fc19b173f3c3cd8e704318604b.jpg" alt = "졸려잉" height = 10% width = 10%>
 
@@ -16,6 +20,7 @@
 - Main Languages
 
 <img alt = "Python" src = "https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white"/>             
+<br> <br>
 
 - Learning Languages
 
