@@ -6,15 +6,17 @@
 .
 
 ## 🎈Info🎈
-
+<br>
 <a href = "https://www.instagram.com/iamtaekjun._.y/" target = "_blank"><img src = "https://img.shields.io/badge/instagram-E4405F.svg?style=flat&logo=Instagram&logoColor=white"/></a>
 
 <img src = "https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=Discord&logoColor=white"/> 택준#8280
 
 <jtj72272503@gmail.com>
 
----
+<br>
 
+---
+<br>
 🙋안녕하세요 !
 
 제 이름은 정택준이고 현재 대학교 재학중입니다.
@@ -23,6 +25,8 @@
 
 <br><br>
 <img src = "http://file3.instiz.net/data/file3/2022/07/15/e/9/8/e980bc89bedd34ebcfde23d7a21d3774.jpg" alt = " " height = 10% width = 10%>
+
+<br>
 
 ## 💻Tech Stacks💻
 
