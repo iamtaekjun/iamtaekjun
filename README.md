@@ -1,6 +1,13 @@
-<h1><strong>TaekJun Jung</strong></h1>
-👨 jtj72272503@gmail.com <br>
-👨 https://www.instagram.com/iamtaekjun._.y/ <br>
+# TaekJun Jung
+<br>
+🎈Info🎈
+
+<a href = "https://www.instagram.com/iamtaekjun._.y/" target = "_blank"><img src = "https://img.shields.io/badge/instagram-E4405F.svg?style=flat&logo=Instagram&logoColor=white"/></a>
+
+<img src = "https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=Discord&logoColor=white"/><font size = "1">택준#8280</font>
+
+<img src = "https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=Gmail&logoColor=white"/> <jtj72272503@gmail.com>
+
 <p><br></p>
 <img src = "https://coinpan.com/files/attach/images/209/911/917/056/7a3b27fc19b173f3c3cd8e704318604b.jpg" alt = "졸려잉" height = 20% width = 20%>
 
