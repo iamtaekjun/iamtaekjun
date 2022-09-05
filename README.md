@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B462D5&height=200&section=header&text=TaekJun%20Jung&fontSize=50)
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-## 🎈Info🎈
+## 🎈Information🎈
 <br>
 <a href = "https://www.instagram.com/iamtaekjun._.y/" target = "_blank"><img src = "https://img.shields.io/badge/instagram-E4405F.svg?style=flat&logo=Instagram&logoColor=white"/></a>
 
