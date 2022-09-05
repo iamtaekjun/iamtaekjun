@@ -1,9 +1,4 @@
-# TaekJun Jung
-.
-
-.
-
-.
+![header](https://capsule-render.vercel.app/api?type=waving&color=B462D5&height=200&section=header&text=TaekJun%20Jung&fontSize=50)
 
 ## 🎈Info🎈
 <br>
