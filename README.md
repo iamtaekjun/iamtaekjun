@@ -15,9 +15,6 @@
 
 정택준입니다
 
-<br><br>
-<img src = "http://file3.instiz.net/data/file3/2022/07/15/e/9/8/e980bc89bedd34ebcfde23d7a21d3774.jpg" alt = " " height = 10% width = 10%>
-
 <br>
 
 ## 💻Tech Stacks💻
