@@ -31,8 +31,11 @@
 "https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=C%2B%2B&logoColor=white"/>              <img alt = "HTML" src = 
 "https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=HTML5&logoColor=white"/>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{iamtaekjun}"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=iamtaekjun&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/iamtaekjun"
+  width="600"
+  height="300"
+/>
 </a>
-
 
