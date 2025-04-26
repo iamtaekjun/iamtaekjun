@@ -30,3 +30,9 @@
 <img alt = "C" src = "https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=C&logoColor=white"/> <img alt = "C++" src = 
 "https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=C%2B%2B&logoColor=white"/>              <img alt = "HTML" src = 
 "https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=HTML5&logoColor=white"/>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{iamtaekjun}"/>
+</a>
+
+
