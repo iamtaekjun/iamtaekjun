@@ -3,7 +3,7 @@
 
 ## 🎈Information🎈
 <br>
-<a href = "https://www.instagram.com/iamtaekjun._.y/" target = "_blank"><img src = "https://img.shields.io/badge/instagram-E4405F.svg?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href = "https://www.instagram.com/taekjunnnn/" target = "_blank"><img src = "https://img.shields.io/badge/instagram-E4405F.svg?style=flat&logo=Instagram&logoColor=white"/></a>
 
 <img src = "https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=Discord&logoColor=white"/> 택준#8280
 
